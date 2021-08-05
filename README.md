@@ -7,7 +7,7 @@
 5.  git checkout -- . // reconstruye todos los archivos a la foto del último commit
 6.  git log // tengo todo el listado de los commit
 7.  git commit --amend // i=para editar y escape, :wq!=para que edite y cierre inmediatamente.
-8.  git checkout -b rama-heroes // Crear una nueva rama
+8.  git checkout -b rama-heroes // Crear una nuev a rama
 9.  git checkout master // volvemos a la rama principal
 10. git branch -d rama-heroes // borrar rama heroes
 11. git push // subir cambios a github
