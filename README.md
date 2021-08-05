@@ -18,6 +18,9 @@
 -   git branch // ver ramas
 -   git checkout master // volvemos a la rama principal
 -   git merge rama-heroes // fusionar la rama heroes al master
+-   git pull // descargar los cambios hechos por otros usuarios
+-   git clone // clonar repositorio a mi equipo
+-   git status // ver el estado de tus archivos
 
 ## Subir a GitHub
 
