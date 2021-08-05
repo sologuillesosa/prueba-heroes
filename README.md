@@ -8,7 +8,7 @@
 02- git add . //prepara todos los archivos para la foto o commit, se encuentran en el stage
 03- git reset . //anula la acción anterior
 04- git commit -m "Primer commit" //hace la foto
-05- git checkout --.
+05- git checkout -- .
 06- git log
 07- git commit --amend // i=para editar y escape, :wq!=para que edite y cierre inmediatamente.
 08- git checkout -b rama-heroes //Crear una nueva rama
