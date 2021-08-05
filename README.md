@@ -11,7 +11,7 @@
 9.  git checkout master // volvemos a la rama principal
 10. git branch -d rama-heroes // borrar rama heroes
 11. git push // subir cambios a github
-12. git commit -am "Readme actualizado" // realiza el add y commit a la vez
+12. git commit -am "readme agrega diff" // realiza el add y commit a la vez
 
 ## Otras notas
 
