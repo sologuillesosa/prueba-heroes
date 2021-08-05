@@ -30,6 +30,5 @@
 -   git config --global user.email "sologuillesosa@gmail.com"
 -   git config --global user.name "Guillermo Sosa"
 
-> Fernando Herrera
-> Youtube: https://www.youtube.com/watch?v=iT4UOkyI09k&ab_channel=FernandoHerrera
+> Fernando Herrera Youtube: https://www.youtube.com/watch?v=iT4UOkyI09k&ab_channel=FernandoHerrera
 > GitHub: https://github.com/Klerith/youtube-git
