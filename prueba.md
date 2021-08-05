@@ -29,7 +29,9 @@
 	<head>
 		<title>Título del sitio Web</title>
 	</head>
-	<body></body>
+	<body>
+		<h1>Hola Mundo!</h1>
+	</body>
 </html>
 ```
 
