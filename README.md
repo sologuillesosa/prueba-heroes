@@ -13,14 +13,19 @@
 11. git push
 12. git commit -am "Readme actualizado"
 
-git config --global user.email "sologuillesosa@gmail.com" // primera configuración de git
-git config --global user.name "Guillermo Sosa" // primera configuración de git
+## Otras notas
 
-git branch // ver ramas
+-   git branch // ver ramas
+-   git checkout master // volvemos a la rama principal
+-   git merge rama-heroes // fusionar la rama heroes al master
 
-git checkout master // volvemos a la rama principal
-git merge rama-heroes // fusionar la rama heroes al master
+## Subir a GitHub
 
-git remote add origin https://github.com/sologuillesosa/prueba-heroes.git
-git branch -M main
-git push -u origin main
+-   git remote add origin https://github.com/sologuillesosa/prueba-heroes.git
+-   git branch -M main
+-   git push -u origin main
+
+## Primera configuración
+
+-   git config --global user.email "sologuillesosa@gmail.com" // primera configuración de git
+-   git config --global user.name "Guillermo Sosa" // primera configuración de git
