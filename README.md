@@ -21,6 +21,7 @@
 -   git pull // descargar los cambios hechos por otros usuarios
 -   git clone // clonar repositorio a mi equipo
 -   git status // ver el estado de tus archivos
+-   git diff . // ver diferencias en el archivo modificado
 
 ## Subir a GitHub
 
