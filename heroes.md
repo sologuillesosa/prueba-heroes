@@ -4,4 +4,4 @@
 2. Superman
 3. Robin
 
-Ctrl + L > Limpiar pantalla terminal Linux
+> Ctrl + L > Limpiar pantalla terminal Linux
